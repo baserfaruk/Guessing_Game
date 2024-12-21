@@ -1,0 +1,1 @@
+Hi, this is a number guessing game coded in Rust!
